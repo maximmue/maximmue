@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi 👋, I'm Max Enrico</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
 - 🔭 I’m currently working on:
@@ -7,7 +7,7 @@
 [TelNetClient](https://github.com/maximmue/telnetclient)
 
 
-- 📫 How to reach me **kontakt.maxmueller@outlook.com**
+- 📫 How to reach me **maximilian2.mueller@student.uni-augsburg.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
