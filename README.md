@@ -3,10 +3,8 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 - 🔭 I’m currently working on:
-<ul>
-<li>[saleor-multivendor](https://github.com/maximmue/saleor)</li>
-<li>[TelNetClient](https://github.com/maximmue/telnetclient)</li>
-</ul>
+[saleor-multivendor](https://github.com/maximmue/saleor)
+[TelNetClient](https://github.com/maximmue/telnetclient)
 
 
 - 📫 How to reach me **kontakt.maxmueller@outlook.com**
